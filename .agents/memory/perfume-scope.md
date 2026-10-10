@@ -17,9 +17,9 @@ Avant modification des classifications, présenter un tableau référence → fa
 
 **Why:** L’utilisateur exige un contrôle individuel des couleurs et des codes du tableau WhatsApp, avec validation préalable.
 
-La personne qui présente la sélection n’a pas de société à présenter ; elle propose des produits à des particuliers et joue un rôle d’intermédiaire avec l’entreprise italienne Chogan. Le site présente sa sélection personnelle et redirige les achats vers Chogan par parrainage, sans statut officiel ou agrément revendiqué.
+La personne qui présente la sélection n’a pas de société à présenter ; elle propose des produits à des particuliers et joue un rôle d’intermédiaire avec l’entreprise italienne Chogan. Le site présente sa sélection personnelle et redirige les achats vers Chogan par parrainage rémunéré, sans statut officiel ou agrément revendiqué. Ne pas présenter ce parrainage comme une recommandation désintéressée.
 
-**Why:** Présentation explicitement précisée par l’utilisateur.
+**Why:** Présentation explicitement précisée par l’utilisateur, qui a confirmé le caractère rémunéré du parrainage.
 
 **How to apply:** Employer une présentation personnelle, ne pas inventer de statut ou de coordonnées. Garder les éléments légaux à compléter dans le guide de travail, demander les informations nécessaires plutôt que publier de faux renseignements.
 

@@ -23,6 +23,12 @@ La personne qui présente la sélection n’a pas de société à présenter ; e
 
 **How to apply:** Employer une présentation personnelle, ne pas inventer de statut ou de coordonnées. Garder les éléments légaux à compléter dans le guide de travail, demander les informations nécessaires plutôt que publier de faux renseignements.
 
+Pour la finalisation technique, ne pas relancer le sujet des démarches administratives : l’utilisateur les gère personnellement. Préserver une mention claire du parrainage rémunéré sans inventer de renseignements.
+
+**Why:** Instruction explicite de l’utilisateur.
+
+**How to apply:** Conserver le QR de commande vers Chogan ; un éventuel QR vers la vitrine doit être distinct. Ne déclarer la publication réussie qu’après vérification de l’adresse publique, sans achat de service ou domaine sans accord.
+
 Pour les remplacements de visuels, présenter un tableau fichier → produit ou section → emplacement et attendre l’accord de l’utilisateur avant remplacement. Ne pas assimiler les numéros des noms de fichiers à des codes produits sans confirmation. Sans photo produit confirmée, conserver une présentation typographique, sans flacon de substitution.
 
 **Why:** L’utilisateur a signalé des images mal attribuées ou mal placées et exige une validation explicite des correspondances.

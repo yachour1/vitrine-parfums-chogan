@@ -32,7 +32,7 @@ export default function Home() {
   };
 
   const entries = [
-    { key: 'Pour elle', title: 'Pour elle', line: 'Fleurs blanches, lys, compositions lumineuses.', img: '/images/section-pour-elle.webp', alt: 'Flacon rouge Olfazeta, illustration de la section Pour elle', tone: 'bg-[hsl(var(--blush)/0.6)]' },
+    { key: 'Pour elle', title: 'Pour elle', line: 'Découvrez les références de ma sélection pour elle.', img: '/images/section-pour-elle.webp', alt: 'Flacon rouge Olfazeta, illustration de la section Pour elle', tone: 'bg-[hsl(var(--blush)/0.6)]' },
     { key: 'Pour lui', title: 'Pour lui', line: 'Lignes sombres, flacon noir, reflets.', img: '/images/brochure-p12-178.webp', alt: 'Flacon noir avec reflet issu de la brochure', tone: 'bg-[hsl(36_18%_88%)]' },
     { key: 'Mixte', title: 'Mixtes', line: 'À porter sans étiquette, à deux ou seul.', img: '/images/brochure-p18-309.webp', alt: 'Oranges issues de la brochure', tone: 'bg-[hsl(var(--champagne-soft)/0.5)]' },
   ];
@@ -229,7 +229,7 @@ export default function Home() {
           <div className="mx-auto max-w-[1200px] grid md:grid-cols-[1.4fr_1fr] gap-14 items-center">
             <div data-reveal>
               <h2 id="cta-title" className="font-display text-5xl md:text-8xl leading-[0.92]">Votre référence <span className="italic text-[hsl(var(--champagne-soft))]">est notée ?</span></h2>
-              <p className="mt-6 text-[hsl(40_20%_82%)] max-w-md">Les achats s’effectuent sur le site Chogan via mon lien de parrainage.</p>
+              <p className="mt-6 text-[hsl(40_20%_82%)] max-w-md">Lien de parrainage rémunéré : je perçois une commission de Chogan lorsque vous effectuez un achat via mon lien. Votre commande et votre paiement s’effectuent directement sur le site Chogan.</p>
               <div className="mt-10 flex flex-wrap items-center gap-5">
                 <ShopLink variant="light" testId="link-shop-final" className="min-h-[52px] px-8">Accéder à la boutique</ShopLink>
                 <span className="inline-flex items-center bg-[hsl(var(--background))] px-3 py-2">
@@ -258,7 +258,8 @@ export default function Home() {
             <p className="mt-3 text-muted-foreground">Site de présentation indépendant. Les commandes en ligne s’effectuent sur le site Chogan via mon lien de parrainage.</p>
           </div>
           <div>
-            <p className="eyebrow text-[hsl(var(--champagne))]">Lien de parrainage</p>
+            <p className="eyebrow text-[hsl(var(--champagne))]">Parrainage rémunéré</p>
+            <p className="mt-3 text-muted-foreground">Je perçois une commission de Chogan lorsque vous effectuez un achat via mon lien de parrainage.</p>
             <p className="mt-3 text-foreground/80">
               Les boutons « Accéder à la boutique » et « Commander sur Chogan » ouvrent le site Chogan via mon lien de parrainage. Les achats, prix et conditions relèvent exclusivement de la boutique. Les noms de parfums et de marques sont des références d’inspiration citées dans la brochure ; les produits originaux ne sont pas vendus ici.
             </p>

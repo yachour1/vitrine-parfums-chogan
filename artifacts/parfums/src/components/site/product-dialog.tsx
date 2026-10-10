@@ -56,7 +56,7 @@ export function ProductDialog({ product, onClose }: { product: Product | null; o
                     Sur la boutique, recherchez la référence <strong className="font-semibold">{product.reference}</strong>.
                   </p>
                   <p className="mt-2 text-sm text-muted-foreground">
-                    Le lien ouvre la page d’accueil de la boutique via un lien de parrainage, et non directement ce produit. Les marques citées sont des références d’inspiration, sans affiliation.
+                    Lien de parrainage rémunéré : je perçois une commission de Chogan sur les achats via mon lien. Celui-ci ouvre la page d’accueil de la boutique, et non directement ce produit. Les marques d’inspiration citées ne sont pas partenaires de cette sélection.
                   </p>
                 </div>
               </div>

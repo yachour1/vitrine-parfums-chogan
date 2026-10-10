@@ -4,7 +4,7 @@ Les 24 pages ont été rendues et examinées visuellement. Les correspondances o
 
 ## Bilan
 
-- 130 références distinctes relevées, dont **116 publiées et 14 mises en attente**.
+- 130 références distinctes relevées, dont **116 présentes dans l’aperçu du catalogue et 14 mises en attente**. Le site n’est pas publié.
 - Zéros initiaux et suffixes conservés. Le code atypique `79` n’a pas été transformé en `079`.
 - Doublons 072 (page 14) et 073 (page 21) fusionnés. Les apparitions sur plusieurs pages sont regroupées en une seule fiche avec plusieurs rubriques.
 - « Pour tous » est présenté sous le libellé d’interface « Mixte ». 155U reste dans « Pour elle » ET « Mixte », conformément aux pages 8, 14 et 21.
@@ -30,7 +30,7 @@ Les entrées complètes en attente sont conservées dans `docs/references-a-conf
 
 ## Visuels et formats
 
-Les flacons de la brochure sont des illustrations de collection réutilisées pour plusieurs références. Aucun visuel individuel n’est attribué à un code sans preuve. Les illustrations génériques restent identifiées comme telles dans le site.
+Les flacons de la brochure sont des illustrations de collection réutilisées pour plusieurs références. Aucun visuel individuel n’est attribué à un code sans preuve. Les illustrations génériques restent limitées aux sections éditoriales et identifiées comme telles ; les cartes et fiches sans photo confirmée présentent uniquement leur référence typographique.
 
 Les images originales utilisables ont été extraites avec leur transparence puis compressées en WebP. Le site ne charge pas le PDF de 46 Mo.
 

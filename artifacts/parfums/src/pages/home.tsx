@@ -53,10 +53,10 @@ export default function Home() {
         {/* HERO */}
         <section className="relative min-h-[100dvh] overflow-hidden pt-24 md:pt-28 px-5 md:px-10">
           <div aria-hidden className="absolute -right-[20vw] top-[10vh] h-[80vh] w-[80vh] rounded-full bg-[hsl(var(--blush)/0.55)] blur-3xl" />
-          <div className="relative mx-auto max-w-[1400px] grid md:grid-cols-12 gap-8 items-center min-h-[calc(100dvh-8rem)]">
+          <div className="relative mx-auto max-w-[1400px] grid md:grid-cols-12 gap-12 md:gap-10 lg:gap-16 items-center min-h-[calc(100dvh-8rem)] pb-20 md:pb-24">
             <div className="md:col-span-6 lg:col-span-6 z-10">
               <p className="eyebrow text-[hsl(var(--champagne))]" data-reveal>Vitrine indépendante · Brochure parfums</p>
-              <h1 className="font-display text-[3.4rem] leading-[0.92] sm:text-7xl lg:text-[7.2rem] mt-6" data-reveal style={{ ['--d' as string]: '80ms' }}>
+              <h1 className="font-display text-[3rem] leading-[0.94] sm:text-7xl md:text-[4.6rem] lg:text-[6rem] xl:text-[7rem] mt-6" data-reveal style={{ ['--d' as string]: '80ms' }}>
                 Trouvez le parfum<br />qui vous <span className="italic text-[hsl(30_20%_30%)]">ressemble</span>
               </h1>
               <p className="mt-8 max-w-md text-[1.05rem] text-foreground/75" data-reveal style={{ ['--d' as string]: '160ms' }}>
@@ -69,17 +69,14 @@ export default function Home() {
                 <ShopLink variant="ghost" testId="link-shop-hero" className="min-h-[48px]">Accéder à la boutique</ShopLink>
               </div>
             </div>
-            <div className="md:col-span-6 relative h-[52vh] md:h-[78vh]">
-              <div className="absolute inset-x-[12%] top-[6%] bottom-[10%] bg-[hsl(var(--card))] border border-[hsl(var(--champagne)/0.3)]" aria-hidden />
-              <div className="absolute left-[2%] bottom-[2%] w-[42%]" data-depth="0.06">
-                <img src="/images/brochure-p2-1379.webp" alt="" width={420} height={420} className="w-full h-auto" />
-              </div>
-              <figure className="absolute left-1/2 top-[4%] -translate-x-1/2 w-[52%] md:w-[46%]">
-                <div data-depth="-0.05">
-                  <img src="/images/brochure-p2-49.webp" alt="Flacon argenté de la collection Luxe, visuel issu de la brochure" width={420} height={640} fetchPriority="high" className="w-full h-auto drop-shadow-[0_30px_40px_hsl(30_20%_20%/0.18)]" />
+            <div className="md:col-span-6 relative flex justify-center md:justify-end pb-16 md:pb-0">
+              <figure className="relative w-full max-w-[min(560px,62dvh)]" data-reveal style={{ ['--d' as string]: '200ms' }}>
+                <div aria-hidden className="absolute -inset-3 md:-inset-5 border border-[hsl(var(--champagne)/0.35)]" />
+                <div data-depth="-0.04" className="relative aspect-square bg-[hsl(var(--card))] overflow-hidden">
+                  <img src="/images/hero-ambiance.webp" alt="Ambiance parfumée : flacon, pétales et fleurs blanches" width={1080} height={1080} fetchPriority="high" className="h-full w-full object-contain" />
                 </div>
+                <figcaption className="mt-6 md:mt-8 text-[0.7rem] tracking-wide text-muted-foreground text-right">Image d’ambiance — non contractuelle</figcaption>
               </figure>
-              <p className="absolute right-[12%] bottom-[4%] text-[0.7rem] text-muted-foreground">Visuel de collection — non contractuel</p>
             </div>
           </div>
           <a href="#collections" className="absolute bottom-6 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-xs eyebrow text-muted-foreground min-h-[44px]" data-testid="link-scroll-cue">
@@ -146,11 +143,12 @@ export default function Home() {
         {hasLuxe && (
           <section aria-labelledby="luxe-title" className="relative overflow-hidden px-5 md:px-10 py-24 md:py-40 bg-[hsl(36_22%_90%)]">
             <div className="mx-auto max-w-[1300px] grid md:grid-cols-2 gap-12 items-center">
-              <div className="relative flex justify-center gap-6 md:gap-10 items-end order-2 md:order-1">
-                <Visual src="/images/brochure-p23-2345.webp" alt="Flacon rouge de la collection Luxe, visuel issu de la brochure" w={300} h={460} className="w-[42%]" depth={0.07} caption={false} />
-                <Visual src="/images/brochure-p2-49.webp" alt="Flacon argenté de la collection Luxe, visuel issu de la brochure" w={300} h={460} className="w-[36%] mb-16" depth={-0.05} caption={false} />
-                <p className="absolute -bottom-6 left-0 text-[0.7rem] text-muted-foreground">Visuels de collection — non contractuels</p>
-              </div>
+              <figure className="relative mx-auto w-full max-w-[460px] order-2 md:order-1">
+                <div data-depth="0.05" className="aspect-square">
+                  <img src="/images/luxe-collection-doree.webp" alt="Illustration dorée générique de la collection Luxe" width={1080} height={1080} loading="lazy" className="h-full w-full object-contain" />
+                </div>
+                <figcaption className="mt-3 text-[0.7rem] text-muted-foreground">Illustration de collection — non contractuelle</figcaption>
+              </figure>
               <div className="order-1 md:order-2" data-reveal>
                 <p className="eyebrow text-[hsl(var(--champagne))]">Collection Luxe / Luxury</p>
                 <h2 id="luxe-title" className="font-display text-5xl md:text-7xl mt-4 leading-[0.95]">Le flacon <span className="italic">habillé</span> de la brochure.</h2>
@@ -192,6 +190,11 @@ export default function Home() {
           </section>
         )}
 
+        <div aria-hidden className="relative h-[34vh] md:h-[48vh] overflow-hidden">
+          <img src="/images/transition-florale.webp" alt="" width={1080} height={1080} loading="lazy" className="h-full w-full object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-b from-background via-transparent to-background" />
+        </div>
+
         <Catalogue filters={filters} setFilters={setFilters} />
 
         {/* HOW TO ORDER */}
@@ -227,7 +230,12 @@ export default function Home() {
             <div data-reveal>
               <h2 id="cta-title" className="font-display text-5xl md:text-8xl leading-[0.92]">Votre référence <span className="italic text-[hsl(var(--champagne-soft))]">est notée ?</span></h2>
               <p className="mt-6 text-[hsl(40_20%_82%)] max-w-md">Les achats s’effectuent sur le site Chogan via mon lien de parrainage.</p>
-              <ShopLink variant="light" testId="link-shop-final" className="mt-10 min-h-[52px] px-8">Accéder à la boutique</ShopLink>
+              <div className="mt-10 flex flex-wrap items-center gap-5">
+                <ShopLink variant="light" testId="link-shop-final" className="min-h-[52px] px-8">Accéder à la boutique</ShopLink>
+                <span className="inline-flex items-center bg-[hsl(var(--background))] px-3 py-2">
+                  <img src="/images/logo-chogan.webp" alt="Logo Chogan, boutique de destination" width={569} height={167} loading="lazy" className="h-6 w-auto" data-testid="img-chogan-logo" />
+                </span>
+              </div>
             </div>
             <div data-reveal style={{ ['--d' as string]: '150ms' }} className="justify-self-center md:justify-self-end text-center">
               <div className="bg-[hsl(var(--background))] p-5 inline-block">

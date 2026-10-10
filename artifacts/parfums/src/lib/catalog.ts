@@ -31,11 +31,10 @@ export function matches(p: Product, q: string) {
   return n.split(/\s+/).every((t) => hay.includes(t));
 }
 
-/** Generic collection visual chosen by category/collection. Never per-SKU. */
+/** Only an explicit, confirmed per-product photo. No collection fallback. */
 export function collectionVisual(p: Product): { src: string; alt: string } | null {
-  if (p.image) return { src: p.image, alt: `Visuel de collection associé à la référence ${p.reference}` };
-  if (p.collection === LUXE) return { src: '/images/brochure-p2-49.webp', alt: 'Flacon argenté illustrant la collection Luxe' };
+  if (p.image) return { src: p.image, alt: `Photo de la référence ${p.reference}` };
   return null;
 }
 
-export const VISUAL_CAPTION = 'Visuel de collection — non contractuel';
+export const VISUAL_CAPTION = 'Photo non contractuelle';

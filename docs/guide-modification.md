@@ -10,7 +10,9 @@ Seules les entrées `"verificationStatus": "verified"` apparaissent. Les 14 réf
 
 Catégories disponibles : Pour elle, Pour lui, Mixte. Une fiche peut en avoir plusieurs. Collection Luxe : écrire exactement `"Luxe / Luxury"`, sinon `null`.
 
-Les listes de filtres se trouvent dans `src/lib/catalog.ts`. Les images doivent être placées dans `public/images`. `image: null` signifie qu’aucune photo individuelle vérifiée n’est disponible ; le site utilise alors la référence typographique ou une illustration générique explicitement légendée.
+Les listes de filtres se trouvent dans `src/lib/catalog.ts`. Les images doivent être placées dans `public/images`. `image: null` signifie qu’aucune photo individuelle vérifiée n’est disponible ; les cartes et fiches utilisent alors uniquement la référence typographique, sans flacon générique de substitution.
+
+Les nouveaux visuels approuvés sont `hero-ambiance.webp` (accueil), `transition-florale.webp` (avant le catalogue), `luxe-collection-doree.webp` (illustration de collection Luxe) et `logo-chogan.webp` (près du bouton boutique final). Aucun n’est associé à une référence produit. Les autres fichiers reçus restent inutilisés.
 
 ## Titre, lien et informations légales
 
@@ -44,7 +46,11 @@ Préserver les contrôles clavier, les zones tactiles, les contrastes et le resp
 - Aperçus d’accueil observés sur ordinateur (1280 × 720) et mobile (390 × 844).
 - Aucun message d’erreur dans la console de ces aperçus.
 
-Les parcours interactifs complets au navigateur (filtres, modale, focus clavier, réduction des animations et images en erreur) n’ont pas fait l’objet d’un test de bout en bout dans cette première livraison.
+Après correction des images, un contrôle au navigateur a confirmé : recherche `007`, filtres combinés Pour elle + Floraux (30 résultats), réinitialisation (116 références), chargement de 12 à 24 cartes, ouverture des fiches 093 et 007 sans flacon générique, fermeture par Échap et bouton, navigation mobile à 390 × 844, absence de débordement horizontal sur mobile et ordinateur, chargement des 15 images, et URL/attributs des liens boutique. La préférence de mouvement réduit a également été vérifiée.
+
+Le catalogue, la configuration du parrainage et le fichier QR ont conservé leurs empreintes de contrôle avant/après modification. La compilation et le contrôle TypeScript réussissent.
+
+La boutique externe n’a pas été ouverte et aucun achat n’a été effectué. Ce contrôle ciblé ne couvre pas chaque référence, tous les navigateurs, la récupération après erreur d’image ni un audit exhaustif du focus clavier.
 
 ## Avant mise en ligne
 

@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Sélection Parfums"
+description = "Vitrine indépendante française des parfums de la brochure Chogan, avec catalogue vérifié et redirection de parrainage, sans vente sur place."
+version = "1.0.0"
+id = "artifacts/parfums"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19796
+
+[services.development]
+run = "pnpm --filter @workspace/parfums run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/parfums", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/parfums/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19796"
+BASE_PATH = "/"

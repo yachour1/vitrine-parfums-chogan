@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "4-Clmygd_SgtXShEGn_E1"
+uri = "file://generated-artifacts/guide-et-verification.html"
+type = "html"
+title = "Guide de modification et références à confirmer"
+description = "Analyse des 24 pages, liste des 14 références exclues en attente de validation, contrôle du QR et guide de modification du site."
+logical_id = "61aa61dc-4832-40a2-99ed-b5f5a6e7286e"
+content_hash = "sha256:a5b5f18e87c837c435cbd4175ff7d3b341adb9eeeea66264d271b098f426aaca"
+size = 10623
+mtime_ms = 1791656687773
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:a7a50bef-772f-4edd-85d2-a3e155024c48/61aa61dc-4832-40a2-99ed-b5f5a6e7286e/b99d6d37-e122-4c1a-b0e6-17c14ef86ef7"
+storage_version_token = "1791656692699141"
+content_type = "text/html"

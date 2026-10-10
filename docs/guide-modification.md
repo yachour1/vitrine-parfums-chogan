@@ -1,0 +1,51 @@
+# Guide de modification — Sélection Parfums
+
+## Produits
+
+Modifier `artifacts/parfums/src/data/products.json`. Une référence correspond à une seule entrée. Conserver les codes entre guillemets, notamment `"001"`, `"148W"` et `"155U"`.
+
+Champs : `reference`, `referenceName` (nom d’inspiration), `referenceBrand`, `categories`, `families` (rubriques de la brochure), `collection`, `image`, `sourcePages` et `verificationStatus`.
+
+Seules les entrées `"verificationStatus": "verified"` apparaissent. Les 14 références en attente sont dans `docs/references-a-confirmer.json`. Valider leurs informations avant de les ajouter au catalogue. Ne pas remplacer les données manuellement éditées en relançant le script de transcription sans mettre à jour sa source.
+
+Catégories disponibles : Pour elle, Pour lui, Mixte. Une fiche peut en avoir plusieurs. Collection Luxe : écrire exactement `"Luxe / Luxury"`, sinon `null`.
+
+Les listes de filtres se trouvent dans `src/lib/catalog.ts`. Les images doivent être placées dans `public/images`. `image: null` signifie qu’aucune photo individuelle vérifiée n’est disponible ; le site utilise alors la référence typographique ou une illustration générique explicitement légendée.
+
+## Titre, lien et informations légales
+
+Modifier `artifacts/parfums/src/config/site.ts` :
+
+- `title` : titre provisoire du site.
+- `referralUrl` : destination centralisée de tous les liens boutique.
+- `legalText` : vraies informations de l’éditeur, à compléter avant publication.
+
+Le QR original correspond au lien actuel. Si le lien change, remplacer aussi `public/images/referral-qr.png` par un QR réellement généré depuis la nouvelle URL et vérifier sa destination au scan. Ne pas conserver l’ancien QR.
+
+Le titre et les métadonnées de partage se modifient également dans `artifacts/parfums/index.html`. Avant publication, renseigner l’adresse publique réelle pour l’aperçu social ; ne pas utiliser une adresse de développement comme adresse définitive.
+
+## Couleurs et typographies
+
+Les styles sont dans `artifacts/parfums/src/index.css`. Les variables du bloc `:root` contrôlent les couleurs principales : `--background` pour l’ivoire, `--foreground` pour le noir doux, `--primary` et `--accent` pour les accents. Les couleurs sont exprimées en HSL. Les styles éditoriaux figurent plus bas dans le même fichier.
+
+Les polices actuelles sont Cormorant Garamond et Jost, chargées depuis Google Fonts. Aucune mesure d’audience ni aucun cookie marketing n’est ajouté.
+
+## Animations et sections
+
+Animations : `src/lib/motion.ts` et règles de mouvement réduit dans `src/index.css`. Le contenu principal est dans `src/pages/home.tsx` ; catalogue, fiches, navigation et liens boutique sont séparés dans `src/components/site`.
+
+Préserver les contrôles clavier, les zones tactiles, les contrastes et le respect de `prefers-reduced-motion` lors des modifications.
+
+## Vérifications réalisées
+
+- 24 pages de brochure examinées visuellement et 116 références distinctes retenues.
+- QR original décodé, extrait puis redécodé : destination exacte confirmée.
+- Compilation de production réussie et contrôle TypeScript réussi.
+- Aperçus d’accueil observés sur ordinateur (1280 × 720) et mobile (390 × 844).
+- Aucun message d’erreur dans la console de ces aperçus.
+
+Les parcours interactifs complets au navigateur (filtres, modale, focus clavier, réduction des animations et images en erreur) n’ont pas fait l’objet d’un test de bout en bout dans cette première livraison.
+
+## Avant mise en ligne
+
+Compléter les informations légales, vérifier les droits d’usage des visuels et valider les références en attente si vous souhaitez les inclure. Le site n’est pas publié. Toute publication ou activation d’un service payant nécessite votre accord préalable.

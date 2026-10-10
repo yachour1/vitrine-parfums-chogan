@@ -1,0 +1,1 @@
+- [Exactitude de la vitrine](perfume-scope.md) — brochure vérifiée visuellement, données ambiguës exclues, aucune vente locale ni publication sans accord.

@@ -10,11 +10,12 @@ export type Product = {
   image: string | null;
   sourcePages: number[];
   verificationStatus: string;
+  classificationSource?: string;
 };
 
 export const LUXE = 'Luxe / Luxury';
 export const CATEGORIES = ['Pour elle', 'Pour lui', 'Mixte'] as const;
-export const FAMILIES = ['Floraux', 'Parfums d’été', 'Hespéridés', 'Boisés', 'Orientaux ambrés'] as const;
+export const FAMILIES = ['Floraux', 'Fruités', 'Hespéridés', 'Boisés', 'Orientaux / Ambrés'] as const;
 
 export const products: Product[] = (rawProducts as unknown as Product[]).filter(
   (p) => p && p.verificationStatus === 'verified',
@@ -27,6 +28,10 @@ export function normalize(s: string) {
 export function matches(p: Product, q: string) {
   const n = normalize(q);
   if (!n) return true;
+  if (/^\d+[a-z]*$/.test(n)) {
+    const canonical = (code: string) => normalize(code).replace(/^0+(?=\d)/, '');
+    return canonical(p.reference) === canonical(n);
+  }
   const hay = normalize(`${p.reference} ${p.referenceName} ${p.referenceBrand}`);
   return n.split(/\s+/).every((t) => hay.includes(t));
 }

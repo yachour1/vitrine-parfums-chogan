@@ -115,7 +115,7 @@ export function Catalogue({ filters, setFilters }: { filters: Filters; setFilter
             )}
           </div>
           {families.length > 0 && (
-            <div role="group" aria-label="Rubrique de la brochure" className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
+            <div role="group" aria-label="Famille olfactive" className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
               {families.map((f) => (
                 <Chip key={f} active={filters.family === f} onClick={() => update({ ...filters, family: filters.family === f ? null : f })} testId={`filter-family-${f}`}>
                   {f}

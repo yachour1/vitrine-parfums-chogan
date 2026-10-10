@@ -55,3 +55,29 @@ La boutique externe n’a pas été ouverte et aucun achat n’a été effectué
 ## Avant mise en ligne
 
 Compléter les informations légales, vérifier les droits d’usage des visuels et valider les références en attente si vous souhaitez les inclure. Le site n’est pas publié. Toute publication ou activation d’un service payant nécessite votre accord préalable.
+
+## Classification prioritaire et validation
+
+Le tableau WhatsApp du 2 octobre 2026 est désormais prioritaire pour les familles et catégories des codes exactement correspondants. Il ne valide ni noms, ni marques, ni photos, ni prix. Les cinq filtres sont Floraux, Fruités, Hespéridés, Boisés et Orientaux / Ambrés.
+
+La validation reçue autorise uniquement les classifications, sans ajout public : 116 fiches restent visibles et 14 restent en attente. Les codes 79/079 et ceux avec/sans suffixe ne sont pas fusionnés. Le champ `classificationSource` indique la nouvelle source ; son absence signale les références conservées depuis la brochure.
+
+La recherche numérique accepte 7 et 007 comme équivalents, mais ne transforme pas 155 en 155U. Les références affichées ne changent pas.
+
+## Mentions légales — informations à réunir, non affichées sur le site
+
+La présentation est personnelle, sans société revendiquée ni qualité de représentant officiel. La phrase provisoire « Informations légales de l’éditeur à compléter avant publication » est conservée ici comme rappel, et non publiée comme contenu légal.
+
+Le pays indiqué est la France. Ne pas déduire du fait de ne pas avoir de société que le site ou l’activité est nécessairement non professionnel. Cette note est une liste de préparation, pas une validation juridique.
+
+À préciser avant de rédiger les mentions réelles :
+
+- Nature de l’activité et du lien avec Chogan : simple recommandation personnelle, rémunération/commissions, contrat de vendeur indépendant ou autre situation réelle. Ne pas supposer de statut.
+- Identité de l’éditeur et responsable de publication, ainsi qu’un moyen de contact public validé.
+- Selon la situation réelle : coordonnées et mentions d’identification applicables, à vérifier avant de demander ou publier une adresse privée. Aucun numéro d’immatriculation ne doit être inventé.
+- Identité et coordonnées légales de l’hébergeur à vérifier dans les documents officiels lors de la préparation de la publication.
+- Informations de confidentialité adaptées aux traitements réels, dont hébergement et chargement de polices externes ; absence de formulaire ne signifie pas nécessairement absence de traitement technique.
+
+Référence consultée : https://entreprendre.service-public.gouv.fr/vosdroits/F31228 (mentions d’un entrepreneur individuel, à utiliser uniquement si cette situation est applicable). Les obligations exactes doivent être déterminées à partir de la situation réelle, au besoin avec un professionnel compétent.
+
+Le guide est un fichier de travail hors du site public ; il reste accessible aux personnes ayant accès au projet Replit. Ne pas y stocker de renseignements privés inutiles.

@@ -43,7 +43,9 @@ export function ProductDialog({ product, onClose }: { product: Product | null; o
                 <dl className="mt-7 grid grid-cols-[auto_1fr] gap-x-6 gap-y-2 text-[0.95rem] border-t border-border pt-5">
                   <dt className="text-muted-foreground">Catégorie</dt>
                   <dd>{product.categories.join(' · ') || '—'}</dd>
-                  {product.families.length > 0 && (<><dt className="text-muted-foreground">Rubrique brochure</dt><dd>{product.families.join(' · ')}</dd></>)}
+                  {product.families.length > 0 && (<><dt className="text-muted-foreground">Famille(s) / classement</dt><dd>{product.families.join(' · ')}</dd></>)}
+                  <dt className="text-muted-foreground">Source du classement</dt>
+                  <dd>{product.classificationSource || 'Brochure — non confirmé par le nouveau tableau'}</dd>
                   {product.collection && (<><dt className="text-muted-foreground">Collection</dt><dd>{product.collection}</dd></>)}
                   <dt className="text-muted-foreground">Prix</dt>
                   <dd>Voir le prix sur la boutique</dd>

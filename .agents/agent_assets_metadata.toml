@@ -5,14 +5,14 @@ generated = []
 id = "4-Clmygd_SgtXShEGn_E1"
 uri = "file://generated-artifacts/guide-et-verification.html"
 type = "html"
-title = "Guide et vérifications — version actualisée"
-description = "Emplacements approuvés, fiches sans photo de substitution et résultats des contrôles au navigateur."
+title = "Guide actualisé et informations légales à réunir"
+description = "Consignes de modification et liste des renseignements à préciser avant publication en France."
 logical_id = "61aa61dc-4832-40a2-99ed-b5f5a6e7286e"
-content_hash = "sha256:185afe39e143f9b26f65e2d6f04d360601e508f16034124db99aad6e82d93904"
-size = 11969
-mtime_ms = 1791658894898
-storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:a7a50bef-772f-4edd-85d2-a3e155024c48/61aa61dc-4832-40a2-99ed-b5f5a6e7286e/f6bbe692-d6a2-45f6-b343-9dc9d763ce28"
-storage_version_token = "1791658897291914"
+content_hash = "sha256:14c5be39296a67709abd360102fe381c7c9d1fc027eacccd7bee347e1d281adf"
+size = 14948
+mtime_ms = 1791673142812
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:a7a50bef-772f-4edd-85d2-a3e155024c48/61aa61dc-4832-40a2-99ed-b5f5a6e7286e/24d2dc3f-9f80-4a4e-ab73-777506abee13"
+storage_version_token = "1791673325842308"
 content_type = "text/html"
 
 [[outputs]]
@@ -42,3 +42,17 @@ mtime_ms = 1791660957161
 storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:a7a50bef-772f-4edd-85d2-a3e155024c48/15cc378a-1605-4d34-9864-1f2e6069be32/08a38d7b-700c-4dbe-bf3f-9183bb823be8"
 storage_version_token = "1791660963098119"
 content_type = "text/csv"
+
+[[outputs]]
+id = "XB5KX7GfBeFUqPhrpBCv1"
+uri = "file://generated-artifacts/classifications-appliquees.html"
+type = "html"
+title = "Rapport des classifications appliquées"
+description = "Détail des références modifiées, inchangées et en attente, avec les contrôles effectués."
+logical_id = "a31ce8f7-817d-4127-900b-1a82320b8288"
+content_hash = "sha256:beb745fccdf80af808d719cbabac46821af2f48d8ab4916827f095a312b66b30"
+size = 20134
+mtime_ms = 1791673318166
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:a7a50bef-772f-4edd-85d2-a3e155024c48/a31ce8f7-817d-4127-900b-1a82320b8288/8e594b5f-c9cc-49e4-8615-32c9fadb0f3c"
+storage_version_token = "1791673325148264"
+content_type = "text/html"

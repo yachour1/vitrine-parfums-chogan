@@ -1,0 +1,2762 @@
+[
+  {
+    "reference": "007",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "042",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "051",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "055",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Boisés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "019",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Hespéridés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux",
+        "Fruités",
+        "Hespéridés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "089",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Hespéridés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux",
+        "Fruités"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "093",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "097",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "098",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "109",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "115",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "120",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Hespéridés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux",
+        "Fruités"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "121",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "122",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "123",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "024",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "026",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "067",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "096",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "085",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "057",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "064",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "071",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "080",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "082",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "132",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "133",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "145",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "148W",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "151W",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "011",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Hespéridés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "049",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "076",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été",
+        "Hespéridés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Hespéridés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "029",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "155U",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été",
+        "Boisés",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour elle",
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Parfums d’été",
+        "Boisés",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour elle",
+        "Mixte"
+      ]
+    },
+    "state": "absent — conservé"
+  },
+  {
+    "reference": "014",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "025",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "027",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "039",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "053",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "153W",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "154W",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "156W",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "158W",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "159W",
+    "public": true,
+    "before": {
+      "families": [
+        "Parfums d’été",
+        "Hespéridés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux",
+        "Fruités"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "116",
+    "public": true,
+    "before": {
+      "families": [
+        "Hespéridés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Fruités"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "119",
+    "public": true,
+    "before": {
+      "families": [
+        "Hespéridés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Hespéridés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "001",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "002",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "038",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "061",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "020",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "absent — conservé"
+  },
+  {
+    "reference": "003",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "015",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "030",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "031",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "048",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés",
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "094",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "147M",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux",
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "absent — conservé"
+  },
+  {
+    "reference": "150M",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux",
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "absent — conservé"
+  },
+  {
+    "reference": "157M",
+    "public": true,
+    "before": {
+      "families": [
+        "Floraux",
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux",
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "absent — conservé"
+  },
+  {
+    "reference": "054",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "100",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "105",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "072",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "044",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Hespéridés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "144",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "110",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Fruités"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "111",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Fruités"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "129",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Fruités"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "134",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Fruités"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "099",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Hespéridés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "114",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "124",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "126",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "135",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "138",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "141",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "146U",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "absent — conservé"
+  },
+  {
+    "reference": "040",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "090",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "160M",
+    "public": true,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "absent — conservé"
+  },
+  {
+    "reference": "032",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "004",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "016",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "018",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "022",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "033",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "037",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "052",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "062",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "066",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "068",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "069",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "074",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "075",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "086",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "087",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "088",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "073",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "101",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "102",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "106",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "112",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "117",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "118",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "125",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "127",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "130",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "137",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "139",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "142",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "143",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "056",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "070",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "131",
+    "public": true,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "161",
+    "public": false,
+    "before": {
+      "families": [
+        "Parfums d’été"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "152M",
+    "public": false,
+    "before": {
+      "families": [
+        "Floraux",
+        "Boisés",
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui",
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux",
+        "Boisés",
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "060",
+    "public": false,
+    "before": {
+      "families": [
+        "Floraux"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Floraux",
+        "Hespéridés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "128",
+    "public": false,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "inchangé"
+  },
+  {
+    "reference": "006",
+    "public": false,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour elle",
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "010",
+    "public": false,
+    "before": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour elle",
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Boisés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "028",
+    "public": false,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui",
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "023",
+    "public": false,
+    "before": {
+      "families": [],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "absent — conservé"
+  },
+  {
+    "reference": "012",
+    "public": false,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Pour lui"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "113",
+    "public": false,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "136",
+    "public": false,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "140",
+    "public": false,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "162",
+    "public": false,
+    "before": {
+      "families": [
+        "Orientaux ambrés"
+      ],
+      "categories": [
+        "Pour elle"
+      ]
+    },
+    "after": {
+      "families": [
+        "Orientaux / Ambrés"
+      ],
+      "categories": [
+        "Mixte"
+      ]
+    },
+    "state": "mis à jour"
+  },
+  {
+    "reference": "79",
+    "public": false,
+    "before": {
+      "families": [],
+      "categories": []
+    },
+    "after": {
+      "families": [],
+      "categories": []
+    },
+    "state": "absent — conservé"
+  }
+]

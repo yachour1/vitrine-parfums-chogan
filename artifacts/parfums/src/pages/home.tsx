@@ -39,10 +39,10 @@ export default function Home() {
   const hasLuxe = products.some((p) => p.collection === LUXE);
   const famImg: Record<string, string> = {
     Floraux: '/images/brochure-p12-2882.webp',
-    'Parfums d’été': '/images/brochure-p8-1508.webp',
+    Fruités: '',
     Hespéridés: '/images/section-hesperides.webp',
     Boisés: '/images/brochure-p18-310.webp',
-    'Orientaux ambrés': '/images/brochure-p2-50.webp',
+    'Orientaux / Ambrés': '/images/brochure-p2-50.webp',
   };
   const families = Object.keys(famImg).filter((f) => products.some((p) => p.families.includes(f)));
 
@@ -60,7 +60,7 @@ export default function Home() {
                 Trouvez le parfum<br />qui vous <span className="italic text-[hsl(30_20%_30%)]">ressemble</span>
               </h1>
               <p className="mt-8 max-w-md text-[1.05rem] text-foreground/75" data-reveal style={{ ['--d' as string]: '160ms' }}>
-                Une sélection des références de la brochure, rangées pour flâner : par envie, par famille, par code. Notez celle qui vous parle, puis retrouvez-la sur la boutique Chogan.
+                Je vous propose une sélection de parfums Chogan et vous accompagne dans le choix de votre référence. Pour commander en ligne, mon lien de parrainage vous redirige vers le site Chogan, où vous pouvez consulter les produits et effectuer votre achat.
               </p>
               <div className="mt-10 flex flex-col sm:flex-row gap-3" data-reveal style={{ ['--d' as string]: '240ms' }}>
                 <a href="#catalogue" className="inline-flex min-h-[48px] items-center justify-center px-7 bg-[hsl(var(--ink))] text-[hsl(var(--background))] hover:bg-[hsl(30_8%_22%)] transition-colors duration-300" data-testid="link-explore">
@@ -94,7 +94,7 @@ export default function Home() {
                 Un parfum se choisit lentement. <span className="italic text-[hsl(var(--champagne-soft))]">Ici, rien ne presse.</span>
               </p>
               <p className="mt-8 text-[hsl(40_20%_82%)] max-w-lg">
-                {products.length > 0 ? `${products.length} références vérifiées une à une sur la brochure. ` : ''}Pas de panier, pas de compte : seulement de quoi repérer un code avant de passer sur la boutique.
+                {products.length > 0 ? `${products.length} références dans ma sélection personnelle. ` : ''}Pas de panier, pas de compte : seulement de quoi repérer un code avant de passer sur la boutique.
               </p>
             </div>
           </div>
@@ -168,8 +168,8 @@ export default function Home() {
           <section aria-labelledby="fam-title" className="px-5 md:px-10 py-24 md:py-32">
             <div className="mx-auto max-w-[1400px]">
               <div className="flex flex-col md:flex-row md:items-end justify-between gap-6" data-reveal>
-                <h2 id="fam-title" className="font-display text-5xl md:text-6xl leading-[0.95]">Rubriques <span className="italic">de la brochure</span></h2>
-                <p className="text-muted-foreground max-w-sm">Les familles telles que la brochure les présente, reprises sans interprétation. Choisissez-en une pour filtrer le catalogue.</p>
+                <h2 id="fam-title" className="font-display text-5xl md:text-6xl leading-[0.95]">Les familles <span className="italic">olfactives</span></h2>
+                <p className="text-muted-foreground max-w-sm">Le tableau de classification du 2 octobre 2026 est la source prioritaire. Les références absentes conservent leur classement précédent. Une référence peut appartenir à plusieurs familles.</p>
               </div>
               <ul className="mt-12 border-t border-border">
                 {families.map((f, i) => (
@@ -179,7 +179,7 @@ export default function Home() {
                       <span className="font-display text-4xl md:text-6xl group-hover:italic">{f}</span>
                       <span className="flex items-center gap-5">
                         <span className="hidden sm:inline text-sm text-muted-foreground">{count((p) => p.families.includes(f))} réf.</span>
-                        <img src={famImg[f]} alt="" loading="lazy" width={96} height={96} className="h-16 w-16 md:h-24 md:w-24 object-contain" />
+                        {famImg[f] && <img src={famImg[f]} alt="" loading="lazy" width={96} height={96} className="h-16 w-16 md:h-24 md:w-24 object-contain" />}
                       </span>
                     </button>
                   </li>
@@ -255,7 +255,7 @@ export default function Home() {
         <div className="mx-auto max-w-[1300px] grid md:grid-cols-3 gap-10 text-[0.95rem]">
           <div>
             <p className="font-display text-3xl">{SITE_CONFIG.title}</p>
-            <p className="mt-3 text-muted-foreground">Vitrine indépendante. Ce site n’est pas le site officiel de Chogan et n’est affilié à aucune des marques citées.</p>
+            <p className="mt-3 text-muted-foreground">Site de présentation indépendant. Les commandes en ligne s’effectuent sur le site Chogan via mon lien de parrainage.</p>
           </div>
           <div>
             <p className="eyebrow text-[hsl(var(--champagne))]">Lien de parrainage</p>
@@ -264,8 +264,8 @@ export default function Home() {
             </p>
           </div>
           <div>
-            <p className="eyebrow text-[hsl(var(--champagne))]">Informations légales</p>
-            <p className="mt-3 text-foreground/80 whitespace-pre-line" data-testid="text-legal">{SITE_CONFIG.legalText}</p>
+            <p className="eyebrow text-[hsl(var(--champagne))]">{SITE_CONFIG.legalText ? 'Informations légales' : 'À propos de cette sélection'}</p>
+            <p className="mt-3 text-foreground/80 whitespace-pre-line" data-testid="text-legal">{SITE_CONFIG.legalText || 'Cette sélection personnelle ne constitue pas la boutique officielle Chogan. Les produits sont proposés à la commande sur le site de l’entreprise Chogan.'}</p>
             <p className="mt-4 text-sm text-muted-foreground">Aucun cookie de suivi ni outil de mesure d’audience.</p>
           </div>
         </div>

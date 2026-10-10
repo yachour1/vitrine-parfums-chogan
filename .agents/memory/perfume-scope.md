@@ -13,6 +13,12 @@ Les correspondances code/nom et catégories doivent être vérifiées visuelleme
 
 **How to apply:** Conserver les codes comme chaînes avec zéros et suffixes; consulter le rapport de vérification lors de toute modification du catalogue. Les visuels de collection ne prouvent pas l’apparence d’une référence individuelle.
 
+Pour les remplacements de visuels, présenter un tableau fichier → produit ou section → emplacement et attendre l’accord de l’utilisateur avant remplacement. Ne pas assimiler les numéros des noms de fichiers à des codes produits sans confirmation. Sans photo produit confirmée, conserver une présentation typographique, sans flacon de substitution.
+
+**Why:** L’utilisateur a signalé des images mal attribuées ou mal placées et exige une validation explicite des correspondances.
+
+**How to apply:** Distinguer les photos de produits des visuels d’ambiance ; demander le code exact pour chaque association incertaine. Préserver les fonctionnalités et les données lors des retouches visuelles.
+
 Avant publication ou activation d’un service payant, expliquer les options et demander l’accord de l’utilisateur.
 
 **Why:** Instruction explicite de l’utilisateur.

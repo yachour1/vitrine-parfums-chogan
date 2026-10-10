@@ -1,0 +1,125 @@
+Corrige le site existant « Sélection Parfums ». Ne recrée pas le projet
+et ne supprime pas les fonctionnalités déjà présentes.
+
+PROBLÈME À CORRIGER
+Les images actuelles sont mal attribuées ou mal placées.
+Je joins maintenant les images séparément afin que tu utilises
+les bons fichiers aux bons endroits.
+
+Ces fichiers doivent remplacer les anciens visuels aux emplacements
+que je précise. Ne remplace pas une image sur la base d’une supposition.
+
+1. VÉRIFIER LES CORRESPONDANCES
+
+Avant toute modification, dresse un tableau :
+fichier reçu → produit ou section concernée → emplacement prévu.
+
+Utilise les références présentes dans les noms de fichiers et mes
+indications pour établir les correspondances.
+
+Ne te fie pas :
+- À l’ordre d’importation des images.
+- À la seule ressemblance d’un flacon.
+- À la couleur d’une fleur.
+- À une association automatiquement déduite du PDF.
+
+Si une correspondance est incertaine, pose-moi une question.
+Ne mets jamais une image d’un autre parfum pour combler un manque.
+
+Si aucune image produit n’est confirmée, conserve la fiche avec
+une présentation typographique soignée et sans fausse photo.
+
+2. DISTINGUER PRODUITS ET AMBIANCE
+
+Les images de flacons confirmées vont dans les fiches des produits
+correspondants.
+
+Les fleurs et autres photos d’ambiance vont dans l’accueil,
+les introductions de collections ou les transitions entre sections.
+Elles ne doivent pas être présentées comme des photos de produits.
+
+Une image de groupe doit rester un visuel de collection, sauf si
+un recadrage permet d’isoler un produit identifié avec certitude.
+
+N’ajoute aucune image générée, photo de stock ou image trouvée
+sur Internet sans mon accord.
+
+3. AMÉLIORER L’AFFICHAGE DES IMAGES
+
+Pour les images produits :
+- Affiche le flacon entier sans couper son bouchon ou son étiquette.
+- Utilise object-fit: contain lorsque nécessaire.
+- Conserve les proportions naturelles.
+- Harmonise les zones d’image des cartes, pas la forme des flacons.
+- Évite les agrandissements qui rendent les images floues.
+
+Pour les images d’ambiance :
+- Utilise object-fit: cover uniquement si le recadrage reste pertinent.
+- Ajuste le cadrage individuellement sur mobile et ordinateur.
+- Ne recouvre pas un sujet important avec du texte.
+- Évite les répétitions d’une même image dans toutes les sections.
+
+Si une image contient déjà du texte, ne superpose pas un deuxième
+texte par-dessus. Signale-moi les fichiers dont la résolution est
+insuffisante plutôt que de les déformer.
+
+4. RETOUCHER LE DESIGN SANS TOUT CHANGER
+
+Conserve la direction ivoire, noir doux, champagne et rose discret.
+
+Améliore surtout :
+- La composition de l’accueil avec les nouveaux visuels.
+- La cohérence des cartes produits.
+- Les espacements et l’alignement des images.
+- L’équilibre entre images d’ambiance et catalogue.
+- La lisibilité des textes et des boutons.
+
+Je veux une présentation plus soignée et attractive, pas une
+refonte complète ni davantage de décoration inutile.
+
+5. CONSERVER DES ANIMATIONS ÉLÉGANTES
+
+Garde les apparitions progressives au défilement.
+Ajoute, si pertinent, un léger zoom au survol des images cliquables.
+
+Ne fais pas tourner ou flotter tous les flacons.
+Ne laisse pas les animations couper les produits ou masquer les textes.
+Respecte les préférences de réduction des animations.
+Sur mobile, privilégie fluidité et lisibilité.
+
+6. NE PAS MODIFIER LES DONNÉES SANS VALIDATION
+
+Conserve les références et informations déjà présentes, sauf
+correction explicitement demandée.
+
+L’ajout d’une image ne valide pas automatiquement le nom, la marque
+ou la catégorie d’un produit.
+
+Laisse les références en attente de confirmation hors du catalogue
+public tant que je n’ai pas validé leurs informations.
+
+Conserve :
+- La recherche et les filtres combinables.
+- Les fiches détaillées.
+- La navigation mobile.
+- La mention du parrainage.
+- Le QR code et sa destination.
+- Les boutons vers mon lien exact :
+https://www.chogangroupspa.com/referral/ALY318F64/FR
+
+7. VÉRIFICATIONS
+
+Après modification :
+- Vérifie chaque association image/référence.
+- Teste le catalogue et les fiches détaillées.
+- Vérifie l’affichage sur téléphone et ordinateur.
+- Vérifie qu’aucun flacon n’est déformé ou coupé.
+- Vérifie que les images chargent et que les boutons fonctionnent.
+- Retire les anciens fichiers seulement s’ils ne sont plus utilisés.
+
+Indique précisément ce qui a été testé et ce qui reste à vérifier.
+Ne présente pas une correspondance comme « vérifiée » sans contrôle.
+
+Commence par me présenter le tableau des correspondances et attends
+mon accord avant de remplacer les images.
+Ne publie pas le site sans mon autorisation.

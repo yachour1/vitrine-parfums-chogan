@@ -32,7 +32,7 @@ export default function Home() {
   };
 
   const entries = [
-    { key: 'Pour elle', title: 'Pour elle', line: 'Fleurs blanches, lys, compositions lumineuses.', img: '/images/brochure-p5-1461.webp', alt: 'Lys roses issus de la brochure', tone: 'bg-[hsl(var(--blush)/0.6)]' },
+    { key: 'Pour elle', title: 'Pour elle', line: 'Fleurs blanches, lys, compositions lumineuses.', img: '/images/section-pour-elle.webp', alt: 'Flacon rouge Olfazeta, illustration de la section Pour elle', tone: 'bg-[hsl(var(--blush)/0.6)]' },
     { key: 'Pour lui', title: 'Pour lui', line: 'Lignes sombres, flacon noir, reflets.', img: '/images/brochure-p12-178.webp', alt: 'Flacon noir avec reflet issu de la brochure', tone: 'bg-[hsl(36_18%_88%)]' },
     { key: 'Mixte', title: 'Mixtes', line: 'À porter sans étiquette, à deux ou seul.', img: '/images/brochure-p18-309.webp', alt: 'Oranges issues de la brochure', tone: 'bg-[hsl(var(--champagne-soft)/0.5)]' },
   ];
@@ -40,7 +40,7 @@ export default function Home() {
   const famImg: Record<string, string> = {
     Floraux: '/images/brochure-p12-2882.webp',
     'Parfums d’été': '/images/brochure-p8-1508.webp',
-    Hespéridés: '/images/brochure-p18-2931.webp',
+    Hespéridés: '/images/section-hesperides.webp',
     Boisés: '/images/brochure-p18-310.webp',
     'Orientaux ambrés': '/images/brochure-p2-50.webp',
   };
@@ -87,7 +87,7 @@ export default function Home() {
         {/* MANIFESTO */}
         <section className="px-5 md:px-10 py-24 md:py-40 bg-[hsl(var(--ink))] text-[hsl(var(--background))]">
           <div className="mx-auto max-w-5xl grid md:grid-cols-[1fr_1.3fr] gap-12 items-center">
-            <Visual src="/images/brochure-p12-1585.webp" alt="Fleur jaune issue de la brochure" w={360} h={360} className="max-w-[260px] mx-auto [&_figcaption]:text-[hsl(40_20%_70%)]" depth={0.08} />
+            <Visual src="/images/section-avant-choisir.webp" alt="Flacon doré Olfazeta Luxury, illustration de la section Avant de choisir" w={1080} h={1080} className="w-full max-w-[260px] mx-auto [&_figcaption]:text-[hsl(40_20%_70%)]" />
             <div data-reveal>
               <p className="eyebrow text-[hsl(var(--champagne-soft))]">Avant de choisir</p>
               <p className="font-display text-4xl md:text-6xl leading-[1.05] mt-5">
@@ -185,7 +185,7 @@ export default function Home() {
                   </li>
                 ))}
               </ul>
-              <p className="mt-3 text-[0.7rem] text-muted-foreground">Illustrations de la brochure — non contractuelles</p>
+              <p className="mt-3 text-[0.7rem] text-muted-foreground">Illustrations de section — non contractuelles</p>
             </div>
           </section>
         )}

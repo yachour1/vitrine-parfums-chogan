@@ -1,0 +1,165 @@
+Mets à jour le site existant avec deux corrections :
+ma présentation et les classifications des références.
+
+Ne recrée pas le projet. Conserve le design, les fonctionnalités
+et les correspondances d’images que j’ai déjà validées.
+
+1. CORRIGER MA PRÉSENTATION
+
+Je n’ai pas de société à présenter sur ce site.
+Je propose des produits à des particuliers et je joue un rôle
+d’intermédiaire avec l’entreprise italienne Chogan.
+
+Ce site est ma sélection personnelle de parfums.
+Mon lien de parrainage redirige les visiteurs vers le site
+de l’entreprise, où ils peuvent faire leurs achats.
+
+Ne me présente pas comme :
+- Une société ou une entreprise constituée.
+- Le fabricant des produits.
+- La boutique officielle Chogan.
+- Un représentant officiel ou un partenaire agréé, sans justificatif.
+
+Ne crée aucun numéro d’immatriculation, adresse professionnelle,
+statut juridique, certification ou coordonnées fictives.
+
+Texte proposé pour la présentation :
+
+« Je vous propose une sélection de parfums Chogan et vous accompagne
+dans le choix de votre référence. Pour commander en ligne, mon lien
+de parrainage vous redirige vers le site Chogan, où vous pouvez
+consulter les produits et effectuer votre achat. »
+
+Mention courte près des boutons ou dans le pied de page :
+
+« Site de présentation indépendant. Les commandes en ligne
+s’effectuent sur le site Chogan via mon lien de parrainage. »
+
+N’affirme pas qu’il existe une réduction ou un avantage financier
+sans confirmation.
+
+Ne supprime pas automatiquement les informations légales :
+laisse les éléments à compléter dans le guide privé et demande-moi
+les informations nécessaires, sans inventer de statut ni publier
+de faux renseignements.
+
+2. UTILISER LE TABLEAU WHATSAPP
+
+Je joins :
+WhatsApp-Image-2026-10-02-at-13.51.01.jpeg
+
+Cette image devient ma source prioritaire pour mettre à jour :
+- Les familles olfactives.
+- Les catégories femmes, hommes et mixtes des références présentes.
+
+Elle ne valide pas à elle seule :
+- Les noms des parfums.
+- Les marques de référence.
+- Les photos des produits.
+- Les prix et formats.
+- Les disponibilités actuelles.
+
+Lis le tableau central de l’image, sans intégrer les éléments
+de l’interface WhatsApp au site.
+
+La légende indique :
+- Rose = femmes.
+- Bleu = hommes.
+- Orange = mixtes.
+
+Les familles à reprendre sont :
+- Floraux.
+- Fruités.
+- Hespéridés.
+- Boisés.
+- Orientaux / Ambrés.
+
+3. VÉRIFIER CHAQUE CODE
+
+Transcris chaque référence et identifie sa couleur individuellement.
+Ne déduis pas la catégorie à partir de la couleur du titre de section.
+
+Conserve les zéros initiaux et les suffixes.
+Stocke les références comme des chaînes de caractères, pas
+comme des nombres : « 007 », « 079 », « 148W », « 152M », etc.
+
+Si une couleur ou un chiffre est difficile à lire, marque-le
+« à confirmer » et demande-moi validation.
+
+N’attribue pas automatiquement un suffixe absent.
+Si le tableau indique « 155 » et la brochure « 155U », par exemple,
+signale la différence et vérifie la correspondance avant de fusionner.
+
+Même règle pour « 79 » et « 079 » : propose la correction,
+mais vérifie qu’elle concerne bien la même référence.
+
+4. GÉRER LES CLASSEMENTS MULTIPLES
+
+Une référence peut apparaître dans plusieurs familles olfactives.
+
+Ne crée pas plusieurs fiches pour le même parfum.
+Utilise une seule fiche avec une liste de familles.
+
+Exemple : si une référence apparaît dans Floraux et Fruités,
+elle doit être trouvable avec chacun de ces filtres.
+
+Si une référence apparaît dans plusieurs lignes avec des couleurs
+contradicictoires, signale le conflit au lieu de choisir au hasard.
+
+Pour les références absentes du tableau WhatsApp :
+- Ne les supprime pas.
+- Conserve leurs informations existantes.
+- Indique dans le rapport qu’elles ne sont pas confirmées par
+  cette nouvelle source.
+
+Pour les références du tableau absentes du catalogue :
+- Liste-les comme références à ajouter ou à compléter.
+- Ne crée pas de nom ou d’image fictive.
+
+5. RÉEXAMINER LES RÉFÉRENCES EN ATTENTE
+
+Compare ce tableau aux références laissées hors catalogue.
+
+Si le tableau résout uniquement leur famille ou leur catégorie,
+mets à jour ces champs, mais ne considère pas leur nom ou leur
+correspondance avec une marque comme automatiquement validés.
+
+N’ajoute une fiche au catalogue public que lorsque les informations
+nécessaires à sa présentation sont confirmées.
+
+6. METTRE À JOUR LES FILTRES
+
+Mets à jour les filtres et les fiches pour refléter les nouvelles données.
+
+Vérifie :
+- Pour elle, Pour lui et Mixtes.
+- Les cinq familles olfactives.
+- Les filtres combinés.
+- La recherche par code, avec et sans zéro initial.
+- L’absence de doublons.
+- La cohérence entre catalogue et fiche détaillée.
+
+La recherche peut accepter « 7 » pour trouver « 007 »,
+mais le code affiché doit rester « 007 ».
+
+7. CONSERVER MON LIEN
+
+Tous les boutons de commande doivent conserver exactement :
+https://www.chogangroupspa.com/referral/ALY318F64/FR
+
+Ne remplace pas ce lien par la page d’accueil générale.
+Ne crée pas de liens produits non vérifiés.
+Conserve le QR code si sa destination correspond toujours à cette URL.
+
+8. VALIDATION AVANT MODIFICATION
+
+Commence par me présenter un tableau :
+référence → famille(s) → catégorie → changement proposé → incertitude.
+
+Attends mon accord avant de modifier les données du catalogue.
+
+Après validation, applique les changements et fournis un rapport
+des références modifiées, ajoutées, inchangées et encore à confirmer.
+
+Ne présente pas des contrôles comme effectués si tu ne les as pas faits.
+Ne publie pas le site sans mon autorisation.

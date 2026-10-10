@@ -14,3 +14,31 @@ mtime_ms = 1791658894898
 storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:a7a50bef-772f-4edd-85d2-a3e155024c48/61aa61dc-4832-40a2-99ed-b5f5a6e7286e/f6bbe692-d6a2-45f6-b343-9dc9d763ce28"
 storage_version_token = "1791658897291914"
 content_type = "text/html"
+
+[[outputs]]
+id = "lj53q4zYNozs3StyxoaMm"
+uri = "file://generated-artifacts/classification-whatsapp-proposition.html"
+type = "html"
+title = "Tableau complet des classifications à valider"
+description = "164 références comparées : familles, catégorie, changement proposé et incertitude. Aucune modification du catalogue appliquée."
+logical_id = "b57fb5ff-fe42-4959-b1da-557f92f7100e"
+content_hash = "sha256:c39664bc08bc58d3a89142b99aedd10f407d31e4008a3fcfe05d6c289295ca37"
+size = 39379
+mtime_ms = 1791660957165
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:a7a50bef-772f-4edd-85d2-a3e155024c48/b57fb5ff-fe42-4959-b1da-557f92f7100e/3b67897a-c401-4062-ae61-4df6504463ad"
+storage_version_token = "1791660962532132"
+content_type = "text/html"
+
+[[outputs]]
+id = "rXJjU1ASUFi9VchEtcWuQ"
+uri = "file://generated-artifacts/classification-whatsapp-proposition.csv"
+type = "table"
+title = "Tableau des classifications — CSV"
+description = "La même comparaison, ouvrable dans Excel ou un tableur."
+logical_id = "15cc378a-1605-4d34-9864-1f2e6069be32"
+content_hash = "sha256:7cb22eb248bf6fda6a9982e113234b8395e6cfe15ffb56d46d2c17eb168c0987"
+size = 29146
+mtime_ms = 1791660957161
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:a7a50bef-772f-4edd-85d2-a3e155024c48/15cc378a-1605-4d34-9864-1f2e6069be32/08a38d7b-700c-4dbe-bf3f-9183bb823be8"
+storage_version_token = "1791660963098119"
+content_type = "text/csv"

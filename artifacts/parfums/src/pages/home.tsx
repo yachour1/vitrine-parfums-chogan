@@ -39,7 +39,7 @@ export default function Home() {
   const hasLuxe = products.some((p) => p.collection === LUXE);
   const famImg: Record<string, string> = {
     Floraux: '/images/brochure-p12-2882.webp',
-    Fruités: '',
+    Fruités: '/attached_assets/design0_1791658486699.webp',
     Hespéridés: '/images/section-hesperides.webp',
     Boisés: '/images/brochure-p18-310.webp',
     'Orientaux / Ambrés': '/images/brochure-p2-50.webp',
@@ -87,7 +87,7 @@ export default function Home() {
         {/* MANIFESTO */}
         <section className="px-5 md:px-10 py-24 md:py-40 bg-[hsl(var(--ink))] text-[hsl(var(--background))]">
           <div className="mx-auto max-w-5xl grid md:grid-cols-[1fr_1.3fr] gap-12 items-center">
-            <Visual src="/images/section-avant-choisir.webp" alt="Flacon doré Olfazeta Luxury, illustration de la section Avant de choisir" w={1080} h={1080} className="w-full max-w-[260px] mx-auto [&_figcaption]:text-[hsl(40_20%_70%)]" />
+            <Visual src="/attached_assets/parfum7_1791658486700.png" alt="Flacon parfumé pour la section Avant de choisir" w={1080} h={1080} className="w-full max-w-[260px] mx-auto [&_figcaption]:text-[hsl(40_20%_70%)]" />
             <div data-reveal>
               <p className="eyebrow text-[hsl(var(--champagne-soft))]">Avant de choisir</p>
               <p className="font-display text-4xl md:text-6xl leading-[1.05] mt-5">
@@ -145,7 +145,7 @@ export default function Home() {
             <div className="mx-auto max-w-[1300px] grid md:grid-cols-2 gap-12 items-center">
               <figure className="relative mx-auto w-full max-w-[460px] order-2 md:order-1">
                 <div data-depth="0.05" className="aspect-square">
-                  <img src="/images/luxe-collection-doree.webp" alt="Illustration dorée générique de la collection Luxe" width={1080} height={1080} loading="lazy" className="h-full w-full object-contain" />
+                  <img src="/attached_assets/parfum12_1791658486701.png" alt="Illustration de la collection Luxe" width={1080} height={1080} loading="lazy" className="h-full w-full object-contain" />
                 </div>
                 <figcaption className="mt-3 text-[0.7rem] text-muted-foreground">Illustration de collection — non contractuelle</figcaption>
               </figure>

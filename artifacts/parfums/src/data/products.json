@@ -1,2121 +1,1670 @@
 [
   {
-    "reference": "007",
-    "referenceName": "J’Adore",
-    "referenceBrand": "Dior",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      2
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "042",
-    "referenceName": "La Vie Est Belle",
-    "referenceBrand": "Lancôme",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      2
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "051",
-    "referenceName": "Coco Mademoiselle",
-    "referenceBrand": "Chanel",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      2
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "055",
-    "referenceName": "Black Opium",
-    "referenceBrand": "Yves Saint Laurent",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      2,
-      16
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "019",
-    "referenceName": "Lady Million",
-    "referenceBrand": "Paco Rabanne",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux",
-      "Fruités",
-      "Hespéridés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      2,
-      11
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "089",
-    "referenceName": "Mon Paris",
-    "referenceBrand": "Yves Saint Laurent",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux",
-      "Fruités"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      3,
-      11
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "093",
-    "referenceName": "Aventus for Her",
-    "referenceBrand": "Creed",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      3
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "097",
-    "referenceName": "Amo",
-    "referenceBrand": "Ferragamo",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      3
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "098",
-    "referenceName": "Joy",
-    "referenceBrand": "Dior",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      3
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "109",
-    "referenceName": "J’Adore L’Or",
-    "referenceBrand": "Dior",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      3
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "115",
-    "referenceName": "Idôle",
-    "referenceBrand": "Lancôme",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      4
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "120",
-    "referenceName": "La Petite Robe Noire",
-    "referenceBrand": "Guerlain",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux",
-      "Fruités"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      4,
-      11
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "121",
-    "referenceName": "L’Interdit",
-    "referenceBrand": "Givenchy",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      4
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "122",
-    "referenceName": "Libre",
-    "referenceBrand": "Yves Saint Laurent",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      4
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "123",
-    "referenceName": "Good Girl Gone Bad",
-    "referenceBrand": "Kilian",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      4
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "024",
-    "referenceName": "N°5",
-    "referenceBrand": "Chanel",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      5
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "026",
-    "referenceName": "Flower",
-    "referenceBrand": "Kenzo",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      5
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "067",
-    "referenceName": "Olympéa",
-    "referenceBrand": "Paco Rabanne",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      5
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "096",
-    "referenceName": "Gabrielle",
-    "referenceBrand": "Chanel",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      5
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "085",
-    "referenceName": "Chance",
-    "referenceBrand": "Chanel",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      5
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "057",
-    "referenceName": "Omnia Amethyst",
-    "referenceBrand": "Bvlgari",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      6
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "064",
-    "referenceName": "Omnia Indian Garnet",
-    "referenceBrand": "Bvlgari",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      6
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "071",
-    "referenceName": "Allure",
-    "referenceBrand": "Chanel",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      6
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "080",
-    "referenceName": "Sì",
-    "referenceBrand": "Giorgio Armani",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      6
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "082",
-    "referenceName": "Signorina",
-    "referenceBrand": "Ferragamo",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      6
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "132",
-    "referenceName": "My Way",
-    "referenceBrand": "Giorgio Armani",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      7
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "133",
-    "referenceName": "Prada Paradoxe",
-    "referenceBrand": "Prada",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      7
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "145",
-    "referenceName": "Devotion",
-    "referenceBrand": "Dolce & Gabbana",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      7
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "148W",
-    "referenceName": "Goddess",
-    "referenceBrand": "Burberry",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      7
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "151W",
-    "referenceName": "Guilty",
-    "referenceBrand": "Gucci",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      7
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "011",
-    "referenceName": "Light Blue (Femme)",
-    "referenceBrand": "Dolce & Gabbana",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Hespéridés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      8
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "049",
-    "referenceName": "Dolce",
-    "referenceBrand": "Dolce & Gabbana",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      8
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "076",
-    "referenceName": "Acqua di Gioia",
-    "referenceBrand": "Giorgio Armani",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Hespéridés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      8,
-      11
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "029",
-    "referenceName": "L’Eau d’Issey",
-    "referenceBrand": "Issey Miyake",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      8,
-      22
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "155U",
-    "referenceName": "CK One",
-    "referenceBrand": "Calvin Klein",
-    "categories": [
-      "Pour elle",
-      "Mixte"
-    ],
-    "families": [
-      "Parfums d’été",
-      "Boisés",
-      "Orientaux ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      8,
-      14,
-      21
-    ],
-    "verificationStatus": "verified"
-  },
-  {
-    "reference": "014",
-    "referenceName": "Manifesto",
-    "referenceBrand": "Yves Saint Laurent",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      9
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "025",
-    "referenceName": "For Her",
-    "referenceBrand": "Narciso Rodriguez",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      9
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "027",
-    "referenceName": "Trésor",
-    "referenceBrand": "Lancôme",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      9
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "039",
-    "referenceName": "Miss Dior Chérie",
-    "referenceBrand": "Dior",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      9
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "053",
-    "referenceName": "Narciso",
-    "referenceBrand": "Narciso Rodriguez",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      9
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "153W",
-    "referenceName": "Chloé",
-    "referenceBrand": "Chloé",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      10
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "154W",
-    "referenceName": "Love Chloé",
-    "referenceBrand": "Chloé",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      10
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "156W",
-    "referenceName": "Hugo",
-    "referenceBrand": "Hugo Boss",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      10
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "158W",
-    "referenceName": "Flora",
-    "referenceBrand": "Gucci",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      10
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "159W",
-    "referenceName": "Burberry Women",
-    "referenceBrand": "Burberry",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Floraux",
-      "Fruités"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      10,
-      11
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "116",
-    "referenceName": "Yes I Am",
-    "referenceBrand": "Cacharel",
-    "categories": [
-      "Pour elle"
-    ],
-    "families": [
-      "Fruités"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      11
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "119",
-    "referenceName": "Scandal",
-    "referenceBrand": "Jean Paul Gaultier",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Hespéridés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      11
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
     "reference": "001",
     "referenceName": "One Million",
     "referenceBrand": "Paco Rabanne",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      12,
-      19
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "002",
-    "referenceName": "Acqua di Giò",
-    "referenceBrand": "Giorgio Armani",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "referenceName": "Acqua di Gio",
+    "referenceBrand": "Armani",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      12,
-      19
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "038",
-    "referenceName": "Bleu de Chanel",
-    "referenceBrand": "Chanel",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      12,
-      19
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "061",
-    "referenceName": "Invictus",
-    "referenceBrand": "Paco Rabanne",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      12,
-      20
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "020",
-    "referenceName": "La Nuit de l’Homme",
-    "referenceBrand": "Yves Saint Laurent",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      12
-    ],
-    "verificationStatus": "verified"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "003",
     "referenceName": "Fahrenheit",
     "referenceBrand": "Dior",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés"
-    ],
+    "categories": ["Pour lui"],
+    "families": ["Boisés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      12
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "004",
+    "referenceName": "The One",
+    "referenceBrand": "D&G",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "006",
+    "referenceName": "Opium",
+    "referenceBrand": "YSL",
+    "categories": ["Pour elle"],
+    "families": ["Boisés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "007",
+    "referenceName": "J'adore",
+    "referenceBrand": "Dior",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "010",
+    "referenceName": "Alien",
+    "referenceBrand": "Thierry Mugler",
+    "categories": ["Pour elle"],
+    "families": ["Boisés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "011",
+    "referenceName": "Light Blue",
+    "referenceBrand": "D&G",
+    "categories": ["Pour elle"],
+    "families": ["Hespéridés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "012",
+    "referenceName": "Eau Sauvage",
+    "referenceBrand": "Dior",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "014",
+    "referenceName": "Manifesto",
+    "referenceBrand": "YSL",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "015",
     "referenceName": "Roma Uomo",
     "referenceBrand": "Laura Biagiotti",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés"
-    ],
+    "categories": ["Pour lui"],
+    "families": ["Boisés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      12
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "030",
-    "referenceName": "Black XS",
-    "referenceBrand": "Paco Rabanne",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      12
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "031",
-    "referenceName": "BLV",
-    "referenceBrand": "Bvlgari",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      12
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "048",
-    "referenceName": "Allure Homme",
-    "referenceBrand": "Chanel",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés",
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      12,
-      19
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "094",
-    "referenceName": "Sauvage",
-    "referenceBrand": "Dior",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      13
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "147M",
-    "referenceName": "Bottled Absolu",
-    "referenceBrand": "Hugo Boss",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Floraux",
-      "Boisés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      13,
-      17
-    ],
-    "verificationStatus": "verified"
-  },
-  {
-    "reference": "150M",
-    "referenceName": "Hugo",
-    "referenceBrand": "Hugo Boss",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Floraux",
-      "Boisés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      13,
-      17
-    ],
-    "verificationStatus": "verified"
-  },
-  {
-    "reference": "157M",
-    "referenceName": "The Scent",
-    "referenceBrand": "Hugo Boss",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Floraux",
-      "Boisés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      13,
-      17
-    ],
-    "verificationStatus": "verified"
-  },
-  {
-    "reference": "054",
-    "referenceName": "Black Orchid",
-    "referenceBrand": "Tom Ford",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      14,
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "100",
-    "referenceName": "White Aoud",
-    "referenceBrand": "Montale",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      14,
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "105",
-    "referenceName": "Intense Café",
-    "referenceBrand": "Montale",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      14,
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "072",
-    "referenceName": "Patchouli",
-    "referenceBrand": "Réminiscence",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      14
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "044",
-    "referenceName": "Silver Mountain",
-    "referenceBrand": "Creed",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Hespéridés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      14
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "144",
-    "referenceName": "Bianco Latte",
-    "referenceBrand": "Giardini Di Toscana",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Floraux"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      14
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "110",
-    "referenceName": "Kirké",
-    "referenceBrand": "Tiziana Terenzi",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Fruités"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      14
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "111",
-    "referenceName": "Lost Cherry",
-    "referenceBrand": "Tom Ford",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Fruités"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      14,
-      23
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "129",
-    "referenceName": "Erba Pura",
-    "referenceBrand": "Xerjoff",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Fruités"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      14,
-      23
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "134",
-    "referenceName": "Bitter Peach",
-    "referenceBrand": "Tom Ford",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Fruités"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      14
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "099",
-    "referenceName": "Mandarino Di Amalfi",
-    "referenceBrand": "Tom Ford",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Hespéridés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      14
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "114",
-    "referenceName": "Ombre Nomade",
-    "referenceBrand": "Louis Vuitton",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      15
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "124",
-    "referenceName": "Zeta",
-    "referenceBrand": "Morph",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      15
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "126",
-    "referenceName": "Soleil Blanc",
-    "referenceBrand": "Tom Ford",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      15
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "135",
-    "referenceName": "Bois d’Argent",
-    "referenceBrand": "Dior",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      15
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "138",
-    "referenceName": "Wood Whisper",
-    "referenceBrand": "Ojar",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      15
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "141",
-    "referenceName": "Turath",
-    "referenceBrand": "The Spirit of Dubai",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      15
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "146U",
-    "referenceName": "Rouge",
-    "referenceBrand": "Pierre Balmain",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      15
-    ],
-    "verificationStatus": "verified"
-  },
-  {
-    "reference": "040",
-    "referenceName": "Hypnose",
-    "referenceBrand": "Lancôme",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      16
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "090",
-    "referenceName": "Poison Girl",
-    "referenceBrand": "Dior",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      16
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "160M",
-    "referenceName": "Burberry for Men",
-    "referenceBrand": "Burberry",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Boisés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      17
-    ],
-    "verificationStatus": "verified"
-  },
-  {
-    "reference": "032",
-    "referenceName": "Spicebomb",
-    "referenceBrand": "Viktor & Rolf",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      18,
-      19
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "004",
-    "referenceName": "The One",
-    "referenceBrand": "Dolce & Gabbana",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      19
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "016",
-    "referenceName": "Le Mâle",
+    "referenceName": "Le Male",
     "referenceBrand": "Jean Paul Gaultier",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      19
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "018",
     "referenceName": "Déclaration",
     "referenceBrand": "Cartier",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      19
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "019",
+    "referenceName": "Lady Million",
+    "referenceBrand": "Paco Rabanne",
+    "categories": ["Pour elle"],
+    "families": ["Floraux", "Fruités", "Hespéridés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "020",
+    "referenceName": "La Nuit de l'Homme",
+    "referenceBrand": "YSL",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "021",
+    "referenceName": "Light Blue",
+    "referenceBrand": "D&G",
+    "categories": ["Pour lui"],
+    "families": ["Hespéridés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "022",
-    "referenceName": "Terre d’Hermès",
+    "referenceName": "Terre d'Hermès",
     "referenceBrand": "Hermès",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      19
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "023",
+    "referenceName": "Hypnotic Poison",
+    "referenceBrand": "Dior",
+    "categories": ["Pour elle"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "024",
+    "referenceName": "Chanel N°5",
+    "referenceBrand": "Chanel",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "025",
+    "referenceName": "For Her",
+    "referenceBrand": "Narciso Rodriguez",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "026",
+    "referenceName": "Flower",
+    "referenceBrand": "Kenzo",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "027",
+    "referenceName": "Trésor",
+    "referenceBrand": "Lancôme",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "028",
+    "referenceName": "Angel",
+    "referenceBrand": "Thierry Mugler",
+    "categories": ["Pour elle"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "029",
+    "referenceName": "L'Eau d'Issey",
+    "referenceBrand": "Issey Miyake",
+    "categories": ["Pour elle"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "030",
+    "referenceName": "Black XS",
+    "referenceBrand": "Paco Rabanne",
+    "categories": ["Pour lui"],
+    "families": ["Boisés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "031",
+    "referenceName": "BLV",
+    "referenceBrand": "Bvlgari",
+    "categories": ["Pour lui"],
+    "families": ["Boisés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "032",
+    "referenceName": "Spicebomb",
+    "referenceBrand": "Viktor & Rolf",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "033",
     "referenceName": "Black Code",
-    "referenceBrand": "Giorgio Armani",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "referenceBrand": "Armani",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      19
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "037",
     "referenceName": "Man",
     "referenceBrand": "Bvlgari",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      19
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "038",
+    "referenceName": "Bleu de Chanel",
+    "referenceBrand": "",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "039",
+    "referenceName": "Miss Dior Chérie",
+    "referenceBrand": "Dior",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "040",
+    "referenceName": "Hypnôse",
+    "referenceBrand": "Lancôme",
+    "categories": ["Pour elle"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "042",
+    "referenceName": "La Vie Est Belle",
+    "referenceBrand": "Lancôme",
+    "categories": ["Pour elle"],
+    "families": ["Floraux", "Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "044",
+    "referenceName": "Silver Mountain",
+    "referenceBrand": "Creed",
+    "categories": ["Mixte"],
+    "families": ["Hespéridés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "047",
+    "referenceName": "Crystal Noir",
+    "referenceBrand": "Versace",
+    "categories": ["Pour elle"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "048",
+    "referenceName": "Allure Homme",
+    "referenceBrand": "Chanel",
+    "categories": ["Pour lui"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "049",
+    "referenceName": "Dolce",
+    "referenceBrand": "D&G",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "051",
+    "referenceName": "Coco Mademoiselle",
+    "referenceBrand": "Chanel",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "052",
     "referenceName": "Pasha",
     "referenceBrand": "Cartier",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      19
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
-    "reference": "062",
-    "referenceName": "Intenso",
-    "referenceBrand": "Dolce & Gabbana",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "reference": "053",
+    "referenceName": "Narciso",
+    "referenceBrand": "Narciso Rodriguez",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      20
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
-    "reference": "066",
-    "referenceName": "Scent Intense",
-    "referenceBrand": "Costume National",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      20
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "068",
-    "referenceName": "Aventus",
-    "referenceBrand": "Creed",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      20
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "069",
-    "referenceName": "Acqua di Sale",
-    "referenceBrand": "Profumum Roma",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      20
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "074",
-    "referenceName": "Black Afgano",
-    "referenceBrand": "Nasomatto",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      20
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "075",
-    "referenceName": "X for Men",
-    "referenceBrand": "Clive Christian",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      20
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "086",
-    "referenceName": "Legend",
-    "referenceBrand": "Montblanc",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      20
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "087",
-    "referenceName": "Wanted",
-    "referenceBrand": "Azzaro",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      20
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "088",
-    "referenceName": "Man in Black",
-    "referenceBrand": "Bvlgari",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      20
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "073",
-    "referenceName": "Himalaya",
-    "referenceBrand": "Creed",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "101",
-    "referenceName": "Velvet Amber Skin",
-    "referenceBrand": "Dolce & Gabbana",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "102",
-    "referenceName": "Velvet Amber Sun",
-    "referenceBrand": "Dolce & Gabbana",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "106",
-    "referenceName": "Fucking Fabulous",
+    "reference": "054",
+    "referenceName": "Black Orchid",
     "referenceBrand": "Tom Ford",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      21
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
-    "reference": "112",
-    "referenceName": "Néroli Portofino",
-    "referenceBrand": "Tom Ford",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "reference": "055",
+    "referenceName": "Black Opium",
+    "referenceBrand": "YSL",
+    "categories": ["Pour elle"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      21
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "117",
-    "referenceName": "Tobacco Vanille",
-    "referenceBrand": "Tom Ford",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      21,
-      23
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "118",
-    "referenceName": "Baccarat Rouge 540",
-    "referenceBrand": "Maison Francis Kurkdjian",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      21,
-      23
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "125",
-    "referenceName": "Sole di Positano",
-    "referenceBrand": "Tom Ford",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "127",
-    "referenceName": "Oud Wood",
-    "referenceBrand": "Tom Ford",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": "Luxe / Luxury",
-    "image": null,
-    "sourcePages": [
-      21,
-      23
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "130",
-    "referenceName": "Megamare",
-    "referenceBrand": "Orto Parisi",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "137",
-    "referenceName": "XJ 1861 Naxos",
-    "referenceBrand": "Xerjoff",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "139",
-    "referenceName": "Les Sables Roses",
-    "referenceBrand": "Louis Vuitton",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "142",
-    "referenceName": "Ombré Leather",
-    "referenceBrand": "Tom Ford",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
-  },
-  {
-    "reference": "143",
-    "referenceName": "Vanille Powder",
-    "referenceBrand": "Matière Première",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
-    "collection": null,
-    "image": null,
-    "sourcePages": [
-      21
-    ],
-    "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "056",
     "referenceName": "Ange ou Démon",
     "referenceBrand": "Givenchy",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "categories": ["Pour elle"],
+    "families": ["Orientaux / Ambrés"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      22
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "057",
+    "referenceName": "Omnia Amethyst",
+    "referenceBrand": "Bvlgari",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "060",
+    "referenceName": "Millésime Impérial",
+    "referenceBrand": "Creed",
+    "categories": ["Pour lui"],
+    "families": ["Floraux", "Hespéridés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "061",
+    "referenceName": "Invictus",
+    "referenceBrand": "Paco Rabanne",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "062",
+    "referenceName": "Intenso",
+    "referenceBrand": "D&G",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "064",
+    "referenceName": "Omnia Indian Garnet",
+    "referenceBrand": "Bvlgari",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "066",
+    "referenceName": "Scent Intense",
+    "referenceBrand": "Costume National",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "067",
+    "referenceName": "Olympea",
+    "referenceBrand": "Paco Rabanne",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "069",
+    "referenceName": "Acqua di Sale",
+    "referenceBrand": "Profumum Roma",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "070",
     "referenceName": "The One",
-    "referenceBrand": "Dolce & Gabbana",
-    "categories": [
-      "Pour lui"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "referenceBrand": "D&G",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
     "collection": null,
     "image": null,
-    "sourcePages": [
-      22
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "071",
+    "referenceName": "Allure",
+    "referenceBrand": "Chanel",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "072",
+    "referenceName": "Patchouli",
+    "referenceBrand": "Reminescence",
+    "categories": ["Mixte"],
+    "families": ["Boisés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "073",
+    "referenceName": "Himalaya",
+    "referenceBrand": "Creed",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "074",
+    "referenceName": "Black Afgano",
+    "referenceBrand": "Nasomatto",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "075",
+    "referenceName": "X for Men",
+    "referenceBrand": "Clive Christian",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "076",
+    "referenceName": "Acqua di Gioia",
+    "referenceBrand": "Armani",
+    "categories": ["Pour elle"],
+    "families": ["Hespéridés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "078",
+    "referenceName": "",
+    "referenceBrand": "",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "to-review",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "079",
+    "referenceName": "MYSLF",
+    "referenceBrand": "YSL",
+    "categories": ["Pour lui"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "080",
+    "referenceName": "Si",
+    "referenceBrand": "Armani",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "081",
+    "referenceName": "Classique Essence",
+    "referenceBrand": "JPG",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "082",
+    "referenceName": "Signorina",
+    "referenceBrand": "Ferragamo",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "084",
+    "referenceName": "Dylan Blue",
+    "referenceBrand": "Versace",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "085",
+    "referenceName": "Chance",
+    "referenceBrand": "Chanel",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "086",
+    "referenceName": "Legend",
+    "referenceBrand": "Mont Blanc",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "087",
+    "referenceName": "Wanted",
+    "referenceBrand": "Azzaro",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "088",
+    "referenceName": "Man in Black",
+    "referenceBrand": "Bvlgari",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "089",
+    "referenceName": "Mon Paris",
+    "referenceBrand": "YSL",
+    "categories": ["Pour elle"],
+    "families": ["Floraux", "Fruités"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "090",
+    "referenceName": "Poison Girl",
+    "referenceBrand": "Dior",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "091",
+    "referenceName": "Chrome",
+    "referenceBrand": "Azzaro",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "093",
+    "referenceName": "Aventus for Her",
+    "referenceBrand": "Creed",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "094",
+    "referenceName": "Sauvage",
+    "referenceBrand": "Dior",
+    "categories": ["Pour lui"],
+    "families": ["Boisés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "096",
+    "referenceName": "Gabrielle",
+    "referenceBrand": "Chanel",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "097",
+    "referenceName": "Amo Ferragamo",
+    "referenceBrand": "Ferragamo",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "098",
+    "referenceName": "Joy",
+    "referenceBrand": "Dior",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "099",
+    "referenceName": "Mandarino di Amalfi",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Hespéridés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "100",
+    "referenceName": "White Aoud",
+    "referenceBrand": "Montale",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "101",
+    "referenceName": "Velvet Amber Skin",
+    "referenceBrand": "D&G",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "102",
+    "referenceName": "Velvet Amber Sun",
+    "referenceBrand": "D&G",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "105",
+    "referenceName": "Intense Café",
+    "referenceBrand": "Montale",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "106",
+    "referenceName": "Fucking Fabulous",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "108",
+    "referenceName": "",
+    "referenceBrand": "",
+    "categories": ["Pour lui"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "to-review",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "109",
+    "referenceName": "J'adore l'Or",
+    "referenceBrand": "Dior",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "110",
+    "referenceName": "Kirké",
+    "referenceBrand": "Tiziana Terenzi",
+    "categories": ["Mixte"],
+    "families": ["Fruités"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "111",
+    "referenceName": "Lost Cherry",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "112",
+    "referenceName": "Néroli Portofino",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "113",
+    "referenceName": "Sur la Route",
+    "referenceBrand": "Louis Vuitton",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "114",
+    "referenceName": "Ombre Nomade",
+    "referenceBrand": "Louis Vuitton",
+    "categories": ["Mixte"],
+    "families": ["Boisés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "115",
+    "referenceName": "Idole",
+    "referenceBrand": "Lancôme",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "116",
+    "referenceName": "Yes I Am",
+    "referenceBrand": "Cacharel",
+    "categories": ["Pour elle"],
+    "families": ["Floraux", "Fruités"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "117",
+    "referenceName": "Tobacco Vanille",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "118",
+    "referenceName": "Baccarat Rouge 540",
+    "referenceBrand": "Maison Francis Kurkdjian",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "119",
+    "referenceName": "Scandal",
+    "referenceBrand": "Jean Paul Gaultier",
+    "categories": ["Pour elle"],
+    "families": ["Floraux", "Hespéridés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "120",
+    "referenceName": "La Petite Robe Noire",
+    "referenceBrand": "Guerlain",
+    "categories": ["Pour elle"],
+    "families": ["Floraux", "Fruités"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "121",
+    "referenceName": "L'Interdit",
+    "referenceBrand": "Givenchy",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "122",
+    "referenceName": "Libre",
+    "referenceBrand": "YSL",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "123",
+    "referenceName": "Good Girl Gone Bad",
+    "referenceBrand": "Kilian",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "124",
+    "referenceName": "Zeta",
+    "referenceBrand": "Morph",
+    "categories": ["Mixte"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "125",
+    "referenceName": "Sole di Positano Acqua",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "126",
+    "referenceName": "Soleil Blanc",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "127",
+    "referenceName": "Oud Wood",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "128",
+    "referenceName": "Vanille Fatale",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "129",
+    "referenceName": "Erba Pura",
+    "referenceBrand": "Xerjoff",
+    "categories": ["Mixte"],
+    "families": ["Fruités", "Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "130",
+    "referenceName": "Megamare",
+    "referenceBrand": "Orto Parisi",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   },
   {
     "reference": "131",
     "referenceName": "Good Girl",
     "referenceBrand": "Carolina Herrera",
-    "categories": [
-      "Mixte"
-    ],
-    "families": [
-      "Orientaux / Ambrés"
-    ],
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
     "collection": "Luxe / Luxury",
     "image": null,
-    "sourcePages": [
-      22
-    ],
+    "sourcePages": [],
     "verificationStatus": "verified",
-    "classificationSource": "Tableau WhatsApp du 02/10/2026"
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "132",
+    "referenceName": "My Way",
+    "referenceBrand": "Armani",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "133",
+    "referenceName": "Prada Paradoxe",
+    "referenceBrand": "Prada",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "134",
+    "referenceName": "Bitter Peach",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Fruités", "Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "135",
+    "referenceName": "Bois d'Argent",
+    "referenceBrand": "Dior",
+    "categories": ["Mixte"],
+    "families": ["Boisés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "136",
+    "referenceName": "Dior Homme Intense",
+    "referenceBrand": "Dior",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "137",
+    "referenceName": "XJ 1861 Naxos",
+    "referenceBrand": "Xerjoff",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "138",
+    "referenceName": "Wood Whisper",
+    "referenceBrand": "Ojar",
+    "categories": ["Mixte"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "139",
+    "referenceName": "Les Sables Roses",
+    "referenceBrand": "Louis Vuitton",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "140",
+    "referenceName": "Éros",
+    "referenceBrand": "Versace",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "141",
+    "referenceName": "Turath",
+    "referenceBrand": "The Spirit of Dubai",
+    "categories": ["Mixte"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "142",
+    "referenceName": "Ombre Leather",
+    "referenceBrand": "Tom Ford",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "143",
+    "referenceName": "Vanilla Powder",
+    "referenceBrand": "Matière Première",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "144",
+    "referenceName": "Bianco Latte",
+    "referenceBrand": "Giardini di Toscana",
+    "categories": ["Mixte"],
+    "families": ["Floraux", "Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "145",
+    "referenceName": "Devotion",
+    "referenceBrand": "D&G",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "146",
+    "referenceName": "Rouge",
+    "referenceBrand": "Pierre Balmain",
+    "categories": ["Mixte"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
+    "collection": "Luxe / Luxury",
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "147",
+    "referenceName": "Bottled Absolu",
+    "referenceBrand": "Hugo Boss",
+    "categories": ["Pour lui"],
+    "families": ["Boisés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "148",
+    "referenceName": "Goddess",
+    "referenceBrand": "Burberry",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "150",
+    "referenceName": "Hugo",
+    "referenceBrand": "Hugo Boss",
+    "categories": ["Pour lui"],
+    "families": ["Boisés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "151",
+    "referenceName": "Guilty",
+    "referenceBrand": "Gucci",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "152",
+    "referenceName": "Guilty",
+    "referenceBrand": "Gucci",
+    "categories": ["Pour lui", "Mixte"],
+    "families": ["Boisés", "Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "153",
+    "referenceName": "Chloé",
+    "referenceBrand": "Chloé",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "154",
+    "referenceName": "Love Chloé",
+    "referenceBrand": "Chloé",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "155",
+    "referenceName": "CK One",
+    "referenceBrand": "Calvin Klein",
+    "categories": ["Mixte"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "156",
+    "referenceName": "Hugo",
+    "referenceBrand": "Hugo Boss",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "157",
+    "referenceName": "The Scent",
+    "referenceBrand": "Hugo Boss",
+    "categories": ["Pour lui"],
+    "families": ["Boisés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "158",
+    "referenceName": "Flora",
+    "referenceBrand": "Gucci",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "159",
+    "referenceName": "Burberry Women",
+    "referenceBrand": "Burberry",
+    "categories": ["Pour elle"],
+    "families": ["Floraux", "Fruités"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "160",
+    "referenceName": "Burberry For Men",
+    "referenceBrand": "Burberry",
+    "categories": ["Pour lui"],
+    "families": ["Boisés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "161",
+    "referenceName": "Born in Roma Intense",
+    "referenceBrand": "Valentino",
+    "categories": ["Pour elle"],
+    "families": ["Floraux"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "162",
+    "referenceName": "Born In Roma Intense",
+    "referenceBrand": "Valentino",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "verified",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "163",
+    "referenceName": "",
+    "referenceBrand": "",
+    "categories": ["Pour elle"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "to-review",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "164",
+    "referenceName": "",
+    "referenceBrand": "",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "to-review",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
+  },
+  {
+    "reference": "167",
+    "referenceName": "",
+    "referenceBrand": "",
+    "categories": ["Pour lui"],
+    "families": ["Orientaux / Ambrés"],
+    "collection": null,
+    "image": null,
+    "sourcePages": [],
+    "verificationStatus": "to-review",
+    "classificationSource": "Base corrigée importée depuis pasted_text_1791859088.txt"
   }
 ]

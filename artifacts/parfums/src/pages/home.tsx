@@ -169,7 +169,6 @@ export default function Home() {
             <div className="mx-auto max-w-[1400px]">
               <div className="flex flex-col md:flex-row md:items-end justify-between gap-6" data-reveal>
                 <h2 id="fam-title" className="font-display text-5xl md:text-6xl leading-[0.95]">Les familles <span className="italic">olfactives</span></h2>
-                <p className="text-muted-foreground max-w-sm">Le tableau de classification du 2 octobre 2026 est la source prioritaire. Les références absentes conservent leur classement précédent. Une référence peut appartenir à plusieurs familles.</p>
               </div>
               <ul className="mt-12 border-t border-border">
                 {families.map((f, i) => (
@@ -229,7 +228,6 @@ export default function Home() {
           <div className="mx-auto max-w-[1200px] grid md:grid-cols-[1.4fr_1fr] gap-14 items-center">
             <div data-reveal>
               <h2 id="cta-title" className="font-display text-5xl md:text-8xl leading-[0.92]">Votre référence <span className="italic text-[hsl(var(--champagne-soft))]">est notée ?</span></h2>
-              <p className="mt-6 text-[hsl(40_20%_82%)] max-w-md">Lien de parrainage rémunéré : je perçois une commission de Chogan lorsque vous effectuez un achat via mon lien. Votre commande et votre paiement s’effectuent directement sur le site Chogan.</p>
               <div className="mt-10 flex flex-wrap items-center gap-5">
                 <ShopLink variant="light" testId="link-shop-final" className="min-h-[52px] px-8">Accéder à la boutique</ShopLink>
                 <span className="inline-flex items-center bg-[hsl(var(--background))] px-3 py-2">
@@ -256,13 +254,6 @@ export default function Home() {
           <div>
             <p className="font-display text-3xl">{SITE_CONFIG.title}</p>
             <p className="mt-3 text-muted-foreground">Site de présentation indépendant. Les commandes en ligne s’effectuent sur le site Chogan via mon lien de parrainage.</p>
-          </div>
-          <div>
-            <p className="eyebrow text-[hsl(var(--champagne))]">Parrainage rémunéré</p>
-            <p className="mt-3 text-muted-foreground">Je perçois une commission de Chogan lorsque vous effectuez un achat via mon lien de parrainage.</p>
-            <p className="mt-3 text-foreground/80">
-              Les boutons « Accéder à la boutique » et « Commander sur Chogan » ouvrent le site Chogan via mon lien de parrainage. Les achats, prix et conditions relèvent exclusivement de la boutique. Les noms de parfums et de marques sont des références d’inspiration citées dans la brochure ; les produits originaux ne sont pas vendus ici.
-            </p>
           </div>
           <div>
             <p className="eyebrow text-[hsl(var(--champagne))]">{SITE_CONFIG.legalText ? 'Informations légales' : 'À propos de cette sélection'}</p>

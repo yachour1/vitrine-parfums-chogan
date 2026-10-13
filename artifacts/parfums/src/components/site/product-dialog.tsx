@@ -55,9 +55,6 @@ export function ProductDialog({ product, onClose }: { product: Product | null; o
                   <p className="mt-3 text-[0.95rem]">
                     Sur la boutique, recherchez la référence <strong className="font-semibold">{product.reference}</strong>.
                   </p>
-                  <p className="mt-2 text-sm text-muted-foreground">
-                    Lien de parrainage rémunéré : je perçois une commission de Chogan sur les achats via mon lien. Celui-ci ouvre la page d’accueil de la boutique, et non directement ce produit. Les marques d’inspiration citées ne sont pas partenaires de cette sélection.
-                  </p>
                 </div>
               </div>
             </div>
